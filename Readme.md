@@ -46,5 +46,5 @@ Please note that this is a third-party, fan-made application. This app is not ma
 
 
 
-## Legal (coming soon)
-View the Privacy Policy and Terms of Use for the app here.
+## Legal
+View the [Privacy Policy](https://github.com/MMagg-dev/Guide_checklist_Horizon_Zero_Dawn/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Guide_checklist_Horizon_Zero_Dawn/blob/main/legal/Terms_of_use.md) for the app [here](https://github.com/MMagg-dev/Guide_checklist_Horizon_Zero_Dawn/tree/main/legal).
