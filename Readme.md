@@ -1,6 +1,8 @@
-# Guide, Checklist - Horizon Zero Dawn (coming soon)
+# Guide, Checklist - Horizon Zero Dawn
 
 An unofficial checklist, progress tracker, and guide for the Horizon Zero Dawn game. Explore the world of Zero Dawn set in post apocalyptic Colorado, Utah, and Wyoming and make sure you don't miss out on any quest, achievement, collectible, gear, or datapoints in the game when you follow Aloy's story as she goes on a journey to find out about her past.
+
+[![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.checklisthorizonzerodawn)
 
 
 ## Additional Content
