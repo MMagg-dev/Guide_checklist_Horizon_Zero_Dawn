@@ -13,7 +13,7 @@ The application uses third-party software providers which store and process pers
 \
 The app does use third-party services that declare their Terms and Conditions.
 
-Link to Terms and Conditions of third-party service providers used by the app
+Link to Terms and Conditions of third-party service providers used by the app are as follows -
 
 * [Google Play Services](https://policies.google.com/terms)
 * [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
