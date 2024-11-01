@@ -1,1 +1,0 @@
-# Guide_checklist_Horizon_Zero_Dawn
